@@ -1,7 +1,7 @@
 # Note-Taker
 This React project is a straightforward note-taker that uses the browser's local storage API to keep notes locally.
 
-#Installation
+Installation:
 You must have Node.js installed on your computer in order to complete this project. After installing Node.js, take the following actions:
 1. Clone the project from the GitHub repository:
    https://github.com/misharchived/Note-Taker
